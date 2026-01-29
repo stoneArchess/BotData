@@ -2,12 +2,14 @@
   "users": {
     "581939262572986380": {
       "spells": {
-        "elements": [],
+        "elements": [
+          "computer"
+        ],
         "types": [
           "debate"
         ]
       },
-      "last_invoke": 1769714223.5460532
+      "last_invoke": 1769715163.4034595
     }
   }
 }
