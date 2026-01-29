@@ -12,11 +12,12 @@
         "types": [
           "debate",
           "type",
-          "ball"
+          "ball",
+          "reverse"
         ]
       },
       "last_invoke": 1769717224.93427,
-      "last_learn": 1769717203.5138228
+      "last_learn": 1769718356.487797
     }
   }
 }
