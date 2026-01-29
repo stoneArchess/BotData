@@ -4,13 +4,14 @@
       "spells": {
         "elements": [
           "computer",
-          "friendship"
+          "friendship",
+          "wi-fi"
         ],
         "types": [
           "debate"
         ]
       },
-      "last_invoke": 1769715979.9631944
+      "last_invoke": 1769716157.5859556
     }
   }
 }
