@@ -9,11 +9,12 @@
           "element"
         ],
         "types": [
-          "debate"
+          "debate",
+          "type"
         ]
       },
       "last_invoke": 1769716630.7962525,
-      "last_learn": 0
+      "last_learn": 1769716789.648715
     }
   }
 }
