@@ -3,13 +3,14 @@
     "581939262572986380": {
       "spells": {
         "elements": [
-          "computer"
+          "computer",
+          "friendship"
         ],
         "types": [
           "debate"
         ]
       },
-      "last_invoke": 1769715163.4034595
+      "last_invoke": 1769715979.9631944
     }
   }
 }
