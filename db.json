@@ -14,11 +14,12 @@
           "debate",
           "type",
           "ball",
-          "reverse"
+          "reverse",
+          "explode"
         ]
       },
       "last_invoke": 1770291291.4380164,
-      "last_learn": 1769718356.487797
+      "last_learn": 1770291297.666389
     }
   }
 }
